@@ -105,7 +105,7 @@ Please install or have installed the following:
 
 Clone this repo with the command :
    ```sh
-   git clone https://github.com/0xExp-po/nft-staking-dapp.git
+   git clone https://github.com/10kick-1goal/nft-staking-dapp.git
    cd nft-staking-dapp
    ```
 
